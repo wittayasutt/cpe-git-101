@@ -6,3 +6,7 @@ function add(x, y){
 function sub(x, y){
 	return x - y;
 }
+
+function sub3(x, y){
+	return x - y;
+}
